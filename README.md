@@ -1,7 +1,7 @@
 # PowerShell IT Toolkit
 
 **Project:** 003  
-**Status:** Active / Building — approximately 50% complete
+**Status:** Active / Building - approximately 50% complete
 
 A practical PowerShell toolkit for Windows administration, diagnostics and automation. Project 003 builds on the Windows infrastructure and networking work from Projects 001 and 002.
 
@@ -62,6 +62,6 @@ Project 003 is intentionally left at the halfway point. The core inventory, serv
 
 ## Project Status
 
-**PROJECT_001 — Windows Infrastructure Lab:** Complete / Documented  
-**PROJECT_002 — Networking Lab:** Complete / Documented  
-**PROJECT_003 — PowerShell IT Toolkit:** Active / ~50% Complete
+**PROJECT_001 - Windows Infrastructure Lab:** Complete / Documented  
+**PROJECT_002 - Networking Lab:** Complete / Documented  
+**PROJECT_003 - PowerShell IT Toolkit:** Active / ~50% Complete
